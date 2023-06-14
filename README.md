@@ -1,0 +1,5 @@
+- 👋 Hey, I’m @Electrician86
+- 👀 I’m interested in getting my first Developer Job
+- 🌱 I’m currently learning Html and CSS and further Javascript
+- 💞️ I’m looking to collaborate on websites, portfolios and personal projects
+- 📫 How to reach me : Kevinreyes152@gmail.com
